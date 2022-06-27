@@ -1,6 +1,6 @@
 # SAAD-IT 🇩🇪
 * small company
-* German IT-Security, Software Development
+* German IT-Security, Software Development, IT-Project Management and Service Support 
 * Hacking Operations
 * Open Source
 
